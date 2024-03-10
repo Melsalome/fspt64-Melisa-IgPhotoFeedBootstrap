@@ -1,0 +1,38 @@
+img{
+    object-fit: cover;
+    object-position: center;
+    width: 500px;
+    padding: 3px;
+    margin: 0;
+}
+
+div.container{
+    width: 530px;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    border: 1px solid lightgray;
+}
+
+.nav{
+    justify-content: center;
+}
+
+.container-fluid{
+    justify-items: center;
+}
+
+.d-flex{
+    width: 225px;
+    justify-content: space-between;
+    margin-right: 100px;
+}
+
+div.post-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+div.post img{
+    width: 100%;
+}
